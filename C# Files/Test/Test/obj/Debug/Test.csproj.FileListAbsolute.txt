@@ -1,0 +1,6 @@
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\bin\Debug\Test.exe.config
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\bin\Debug\Test.exe
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\bin\Debug\Test.pdb
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\obj\Debug\Test.exe
+C:\Users\student\Google Drive\C#\CSharp-Tutorials\C# Files\Test\Test\obj\Debug\Test.pdb
