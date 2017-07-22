@@ -28,17 +28,17 @@ namespace ValRefs
             temp = x; x = y; y = temp;
         }
 
-        static void Main(string[] args)
-        {
-            ValManipulator foo = new ValManipulator();
+        //static void Main(string[] args)
+        //{
+        //    ValManipulator foo = new ValManipulator();
 
-            int a;
-            int b;
-            foo.Out2(out a, out b);
-            //Console.WriteLine("a ={0}", a); Console.WriteLine("b ={0}", b);
-            //foo.Swap(ref a, ref b);
-            //Console.WriteLine("a ={0}", a); Console.WriteLine("b ={0}", b);
-            Console.ReadKey();
-        }
+        //    int a;
+        //    int b;
+        //    foo.Out2(out a, out b);
+        //    Console.WriteLine("a ={0}", a); Console.WriteLine("b ={0}", b);
+        //    foo.Swap(ref a, ref b);
+        //    Console.WriteLine("a ={0}", a); Console.WriteLine("b ={0}", b);
+        //    Console.ReadKey();
+        //}
     }
 }
